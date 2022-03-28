@@ -6,8 +6,6 @@ Install all dependencies (testing dependent packages)
 Run the main program
 "node index.js"
 
-When the prompt is ready to add the following:
-
 Inputs:
 ----------------------
 ● Set the number of entry points: entrypoint <number of entrypoints><br />

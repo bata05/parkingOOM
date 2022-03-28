@@ -8,9 +8,11 @@ Run the main program
 
 Inputs:
 ----------------------
-● Set the number of entry points: entrypoint <number of entrypoints><br />
+● Set the number of entry points: <br /> entrypoint <--number of entrypoints--> <br />
+  Example: entrypoint 3
+  
 ● Set the map of the parking slot: <br />
-   slotMap <list value, comma seperated, array per tupple base on the number of entry points>  <br />
+   slotMap <--list value, comma seperated, array per tupple base on the number of entry points-->  <br />
    Example: with 3 entry points, "slotMap (1,4,5),(3,2,3)" <br />
 
 ● Set the parking slot size, where S(0), M(1), L(2): <br />

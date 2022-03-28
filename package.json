@@ -1,0 +1,22 @@
+{
+  "name": "parkingoom",
+  "version": "1.0.0",
+  "description": "Parking Slot Coding Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bata05/parkingOOM.git"
+  },
+  "keywords": [
+    "parking"
+  ],
+  "author": "Raymund Cordova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bata05/parkingOOM/issues"
+  },
+  "homepage": "https://github.com/bata05/parkingOOM#readme"
+}
